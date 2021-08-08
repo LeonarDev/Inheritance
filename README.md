@@ -1,4 +1,4 @@
-# Herança (enum)
+# Herança
 
 - É um tipo de associação que permite que uma classe herde dados e
 comportamentos de outra
@@ -15,6 +15,8 @@ comportamentos de outra
 
 <p align="center">
   <img src="/img/1.png">
+  <img src="/img/2.png">
+  <img src="/img/3.png">
 </p>
 
 <br>
